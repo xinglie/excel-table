@@ -1,0 +1,1 @@
+import e from"./lib/magix.js";let t=import.meta.url,{path:r}=e.parseUrl(t),a=r.replace(/[^/]+$/,"");e.boot({paths:{"~et":a},rootId:"table",defaultView:"~et/table/index",error(e){}});

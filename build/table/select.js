@@ -1,0 +1,1 @@
+import e from"../lib/magix.js";let t=e.guid("set_");export default{_z(){e.node(t)||document.body.insertAdjacentHTML("beforeend",`<div id="${t}" class="t-e"></div>`)},_B(d,i,o,l){let n=e.node(t).style;n.left=d+"px",n.top=i+"px",n.width=o+"px",n.height=l+"px",n.display="block"},_C(){e.node(t).style.display="none"}};

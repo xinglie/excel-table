@@ -1,0 +1,5 @@
+tmpl
+node_modules
+src
+index-debug.html
+gulpfile.js
